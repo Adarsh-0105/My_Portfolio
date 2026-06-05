@@ -15,28 +15,28 @@ export default function Contact() {
           <div className="bg-slate-900 p-6 rounded-xl border border-slate-800">
             <h3 className="font-semibold">Email</h3>
             <p className="text-slate-300">
-              your-email@example.com
+              kumaradarsh10381@gmail.com
             </p>
           </div>
 
           <div className="bg-slate-900 p-6 rounded-xl border border-slate-800">
             <h3 className="font-semibold">Mobile</h3>
             <p className="text-slate-300">
-              +91 XXXXX XXXXX
+              +91 9470000297
             </p>
           </div>
 
          <div className="bg-slate-900 p-6 rounded-xl border border-slate-800">
             <h3 className="font-semibold">GitHub</h3>
             <p className="text-slate-300">
-              github.com/yourusername
+             github.com/Adarsh-0105
             </p>
           </div>
 
           <div className="bg-slate-900 p-6 rounded-xl border border-slate-800">
             <h3 className="font-semibold">LinkedIn</h3>
             <p className="text-slate-300">
-              linkedin.com/in/yourprofile
+              www.linkedin.com/in/kumar-adarsh-10381abc
             </p>
           </div>
 

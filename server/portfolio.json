@@ -1,0 +1,50 @@
+{
+  "name": "Kumar Adarsh",
+  "headline": "ECE Undergraduate | Aspiring Software Developer",
+
+  "about": "Electronics and Communication Engineering student at BITS Pilani Hyderabad Campus with interests in software development, IoT systems, data visualization, and scalable applications.",
+
+  "skills": [
+    "C",
+    "C++",
+    "Java",
+    "HTML",
+    "CSS",
+    "ESP32",
+    "MQTT",
+    "IoT",
+    "Data Visualization",
+    "Git",
+    "Verilog HDL"
+  ],
+
+  "projects": [
+    {
+      "title": "IoT Sensor Monitoring and Visualization System",
+      "description": "Faculty-guided research project involving real-time sensor data collection, MQTT communication, dynamic widgets, graphing, and Wi-Fi signal analysis."
+    }
+  ],
+
+  "education": [
+    {
+      "institution": "BITS Pilani Hyderabad Campus",
+      "degree": "B.E. Electronics and Communication Engineering",
+      "duration": "2024 - Present"
+    },
+    {
+      "institution": "Bal Vidya Niketan",
+      "degree": "Senior Secondary Education (XI-XII)"
+    },
+    {
+      "institution": "Don Bosco Academy",
+      "degree": "Secondary Education (Up to X)"
+    }
+  ],
+
+  "experience": [
+    {
+      "title": "Research Project Assistant",
+      "description": "Worked under a CS professor on an IoT-based research project involving sensor data collection, MQTT communication, visualization, and analysis."
+    }
+  ]
+}
