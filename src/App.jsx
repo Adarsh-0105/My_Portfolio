@@ -7,6 +7,7 @@ import Education from "./components/Education";
 import AIChat from "./components/AIChat";
 import Contact from "./components/Contact";
 import Navbar from "./components/Navbar";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
       <Education />
       <AIChat />
       <Contact />
+      <Footer />
     </>
   );
 }

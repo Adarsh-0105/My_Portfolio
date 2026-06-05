@@ -1,50 +1,47 @@
 export default function Contact() {
   return (
-    <section id="contact">
-      <h2>Contact</h2>
+    <section
+      id="contact"
+      className="bg-slate-950 text-white py-24 px-6"
+    >
+      <div className="max-w-5xl mx-auto">
 
-      <p>
-        Feel free to reach out for collaborations, opportunities,
-        or just to connect.
-      </p>
+        <h2 className="text-4xl font-bold mb-10">
+          Contact
+        </h2>
 
-      <div>
-        <p><strong>Email:</strong> your-email@example.com</p>
+        <div className="grid md:grid-cols-2 gap-6">
 
-        <p><strong>Mobile:</strong> +91 947 0000 297</p>
+          <div className="bg-slate-900 p-6 rounded-xl border border-slate-800">
+            <h3 className="font-semibold">Email</h3>
+            <p className="text-slate-300">
+              your-email@example.com
+            </p>
+          </div>
 
-        <p>
-          <strong>LinkedIn:</strong>{" "}
-          <a
-            href="https://linkedin.com/in/kumar-adarsh-kumar-adarsh-10381abc"
-            target="_blank"
-            rel="noreferrer"
-          >
-            LinkedIn Profile
-          </a>
-        </p>
+          <div className="bg-slate-900 p-6 rounded-xl border border-slate-800">
+            <h3 className="font-semibold">Mobile</h3>
+            <p className="text-slate-300">
+              +91 XXXXX XXXXX
+            </p>
+          </div>
 
-        <p>
-          <strong>GitHub:</strong>{" "}
-          <a
-            href="https://github.com/Adarsh-0105"
-            target="_blank"
-            rel="noreferrer"
-          >
-            GitHub Profile
-          </a>
-        </p>
+         <div className="bg-slate-900 p-6 rounded-xl border border-slate-800">
+            <h3 className="font-semibold">GitHub</h3>
+            <p className="text-slate-300">
+              github.com/yourusername
+            </p>
+          </div>
 
-        <p>
-          <strong>Instagram:</strong>{" "}
-          <a
-            href="https://instagram.com/_.ad_.arsh"
-            target="_blank"
-            rel="noreferrer"
-          >
-            @your-username
-          </a>
-        </p>
+          <div className="bg-slate-900 p-6 rounded-xl border border-slate-800">
+            <h3 className="font-semibold">LinkedIn</h3>
+            <p className="text-slate-300">
+              linkedin.com/in/yourprofile
+            </p>
+          </div>
+
+        </div>
+
       </div>
     </section>
   );
