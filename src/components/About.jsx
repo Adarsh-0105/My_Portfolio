@@ -13,7 +13,7 @@ export default function About() {
         <div className="bg-slate-900 p-8 rounded-2xl border border-slate-800 shadow-lg">
           <p className="text-slate-300 leading-8 mb-6">
             I am an Electronics and Communication Engineering
-            student at BITS Pilani Hyderabad Campus with a strong
+            student at BITS Pilani Goa Campus with a strong
             interest in software development, backend systems,
             scalable applications, and emerging technologies.
           </p>
