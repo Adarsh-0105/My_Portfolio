@@ -14,7 +14,7 @@ export default function Education() {
 
           <div className="bg-slate-900 p-6 rounded-xl border border-slate-800">
             <h3 className="font-bold text-xl">
-              BITS Pilani, Hyderabad Campus
+              BITS Pilani, Goa Campus
             </h3>
             <p className="text-slate-300">
               B.E. Electronics & Communication Engineering
