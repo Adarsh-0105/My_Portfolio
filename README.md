@@ -50,48 +50,41 @@ The AI assistant generates responses grounded in my actual portfolio data, reduc
 
 ---
 
-### Folder Structure
+## Folder Structure
 
-AI-PORTFOLIO
-│
-├── server
-│   ├── app.js
-│   ├── portfolio.json
-│   ├── package.json
-│   └── package-lock.json
-│
-├── src
-│   ├── assets
-│   │   ├── hero.png
-│   │   ├── react.svg
-│   │   └── vite.svg
-│   │
-│   ├── components
-│   │   ├── Navbar.jsx
-│   │   ├── Hero.jsx
-│   │   ├── About.jsx
-│   │   ├── Skills.jsx
-│   │   ├── Projects.jsx
-│   │   ├── Experience.jsx
-│   │   ├── Education.jsx
-│   │   ├── AIChat.jsx
-│   │   ├── Contact.jsx
-│   │   └── Footer.jsx
-│   │
-│   ├── App.jsx
-│   ├── App.css
-│   ├── index.css
-│   └── main.jsx
-│
-├── public
-│
-├── index.html
-├── package.json
-├── package-lock.json
-├── vite.config.js
-├── eslint.config.js
-├── .gitignore
-└── README.md
+### Frontend
+
+- `src/components/`
+  - Navbar.jsx
+  - Hero.jsx
+  - About.jsx
+  - Skills.jsx
+  - Projects.jsx
+  - Experience.jsx
+  - Education.jsx
+  - AIChat.jsx
+  - Contact.jsx
+  - Footer.jsx
+
+- `src/assets/`
+  - hero.png
+  - react.svg
+  - vite.svg
+
+### Backend
+
+- `server/app.js`
+- `server/portfolio.json`
+- `server/package.json`
+
+### Configuration
+
+- vite.config.js
+- eslint.config.js
+- package.json
+- README.md
+
+---
 
 ## System Architecture
 
