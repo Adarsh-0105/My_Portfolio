@@ -24,7 +24,6 @@ The AI assistant generates responses grounded in my actual portfolio data, reduc
 * Context-grounded responses using portfolio data
 * Full-stack architecture
 * Deployed frontend and backend
-
 ---
 
 ## Tech Stack
@@ -50,6 +49,49 @@ The AI assistant generates responses grounded in my actual portfolio data, reduc
 * Render (Backend)
 
 ---
+
+### Folder Structure
+
+AI-PORTFOLIO
+│
+├── server
+│   ├── app.js
+│   ├── portfolio.json
+│   ├── package.json
+│   └── package-lock.json
+│
+├── src
+│   ├── assets
+│   │   ├── hero.png
+│   │   ├── react.svg
+│   │   └── vite.svg
+│   │
+│   ├── components
+│   │   ├── Navbar.jsx
+│   │   ├── Hero.jsx
+│   │   ├── About.jsx
+│   │   ├── Skills.jsx
+│   │   ├── Projects.jsx
+│   │   ├── Experience.jsx
+│   │   ├── Education.jsx
+│   │   ├── AIChat.jsx
+│   │   ├── Contact.jsx
+│   │   └── Footer.jsx
+│   │
+│   ├── App.jsx
+│   ├── App.css
+│   ├── index.css
+│   └── main.jsx
+│
+├── public
+│
+├── index.html
+├── package.json
+├── package-lock.json
+├── vite.config.js
+├── eslint.config.js
+├── .gitignore
+└── README.md
 
 ## System Architecture
 
