@@ -17,7 +17,7 @@ export default function AIChat() {
     setLoading(true);
 
     try {
-      const response = await fetch("http://localhost:5000/ask-ai", {
+      const response = await fetch("https://my-portfolio-backend-nnoy.onrender.com/ask-ai", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
