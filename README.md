@@ -173,4 +173,4 @@ Kumar Adarsh
 
 B.E. Electronics & Communication Engineering
 
-BITS Pilani Hyderabad Campus
+BITS Pilani Goa Campus
